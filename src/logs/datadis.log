@@ -1,0 +1,16 @@
+2024-05-14 14:18:05,463 - datadis - DEBUG - This is a debug message
+2024-05-14 14:18:05,464 - datadis - INFO - This is an info message
+2024-05-14 14:18:05,464 - datadis - WARNING - This is a warning message
+2024-05-14 14:18:05,464 - datadis - ERROR - This is an error message
+2024-05-14 14:18:05,464 - datadis - CRITICAL - This is a critical message
+2024-05-14 14:18:14,308 - datadis - DEBUG - This is a debug message
+2024-05-14 14:18:14,308 - datadis - INFO - This is an info message
+2024-05-14 14:18:14,308 - datadis - WARNING - This is a warning message
+2024-05-14 14:18:14,308 - datadis - ERROR - This is an error message
+2024-05-14 14:18:14,308 - datadis - CRITICAL - This is a critical message
+2024-05-15 08:54:19,656 - datadis - DEBUG - Making outbound API request
+2024-05-15 08:54:19,888 - datadis - ERROR - {"timestamp":"2024-05-15T08:54:19.886+0200","status":404,"error":"Not Found","message":"No message available","path":"/api-private/get-supplies"}
+2024-05-15 08:56:32,593 - datadis - DEBUG - Making outbound API request
+2024-05-15 08:57:59,430 - datadis - DEBUG - Making outbound API request
+2024-05-15 09:16:08,604 - datadis - DEBUG - Making outbound API request
+2024-05-15 09:16:21,494 - datadis - DEBUG - Making outbound API request

@@ -1,0 +1,17 @@
+attrs==23.2.0
+backoff==2.2.1
+certifi==2024.2.2
+charset-normalizer==3.3.2
+-e git+ssh://git@github.com/vladimir-remar/datadis-api.git@011e0be759182f339e27e2eb59c83655d4e47887#egg=datadis
+idna==3.7
+iniconfig==2.0.0
+packaging==24.0
+pluggy==1.5.0
+py==1.11.0
+pytest==6.2.5
+pytest-mock==3.6.1
+requests==2.31.0
+requests-mock==1.9.3
+six==1.16.0
+toml==0.10.2
+urllib3==2.2.1
